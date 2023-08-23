@@ -16,4 +16,4 @@ I will update this later.
 Please fork this reposityory and issue pull request for review
 
 ## Copyright
-   2014 Git.Training
+   2014 Git.Training. All rights reserved.
