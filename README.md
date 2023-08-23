@@ -12,4 +12,6 @@ Sample website with plenty of files for demos
 I will update this later.
 
 ## How To Contribute
-making another modification I am sure this file will be deleted soon.
+
+## Copyright
+   2014 Git.Training
